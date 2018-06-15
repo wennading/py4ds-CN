@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1528982200432.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FAEE590B",
+    "lastKnownWriteTime" : 1528989984,
+    "last_content_update" : 1528989984182,
+    "path" : "E:/Github/py4ds-CN/00-author.Rmd",
+    "project_path" : "00-author.Rmd",
+    "properties" : {
+        "cursorPosition" : "6,34",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
